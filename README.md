@@ -12,5 +12,10 @@ Analyze the response and the Output.
 
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
+Output:
 
-Result: 
+[Experiment6.pdf](https://github.com/user-attachments/files/26075065/Experiment6.pdf)
+
+
+Result:
+ Development of Python Code Compatible with Multiple AI Tools is done successfully.
